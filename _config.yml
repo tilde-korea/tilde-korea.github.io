@@ -2,7 +2,7 @@ title:              tilde blog
 email:              tilde@tilde.co.kr
 description:        A Blog Theme by Start Bootstrap
 author:             Tilde
-baseurl:            "/tilde-korea.github.io"
+baseurl:            ""
 url:                "https://tilde-korea.github.io"
 
 # Social Profiles
